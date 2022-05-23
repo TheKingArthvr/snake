@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:mega",
+    "port": "COM5",
+    "sketch": "dpad\\dpad_working\\dpad_working.ino",
+    "configuration": "cpu=atmega2560"
+}
